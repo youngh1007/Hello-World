@@ -9,3 +9,6 @@ Hello world
   <input type="radio" name="gender" id="other" value="other"><br><br>
   <input type="submit" value="Submit">
 </form>
+<p>We open at <time>10:00</time> every morning.</p>
+
+<p>I have a date on <time datetime="2008-02-14 20:00">Valentines day</time>.</p>
